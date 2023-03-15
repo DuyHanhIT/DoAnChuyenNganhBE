@@ -1,0 +1,622 @@
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebApiShoesStoreDACN.dll.config
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebApiShoesStoreDACN.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebApiShoesStoreDACN.pdb
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csc.exe
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csc.exe.config
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csc.rsp
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csi.exe
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csi.exe.config
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csi.rsp
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.AppContext.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Collections.Immutable.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Console.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Globalization.Calendars.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.Compression.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.FileSystem.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Net.Http.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Net.Sockets.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Reflection.Metadata.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.ValueTuple.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.XPath.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\vbc.exe
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\vbc.exe.config
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\vbc.rsp
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\VBCSCompiler.exe
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\VBCSCompiler.exe.config
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Antlr3.Runtime.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Web.Infrastructure.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Newtonsoft.Json.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Net.Http.Formatting.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Helpers.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.WebHost.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Mvc.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Optimization.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Razor.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Deployment.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Razor.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebGrease.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Newtonsoft.Json.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Net.Http.Formatting.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Helpers.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.WebHost.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Mvc.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Optimization.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Razor.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Deployment.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Razor.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Antlr3.Runtime.pdb
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.csproj.CoreCompileInputs.cache
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.csproj.CopyComplete
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.pdb
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.SqlServer.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.SqlServer.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Swashbuckle.Core.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebActivatorEx.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Cors.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Owin.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Cors.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Cors.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DoAnChuyenNganhVHIT\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.csproj.AssemblyReference.cache
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebApiShoesStoreDACN.dll.config
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebApiShoesStoreDACN.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebApiShoesStoreDACN.pdb
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csc.exe
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csc.exe.config
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csc.rsp
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csi.exe
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csi.exe.config
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csi.rsp
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.Managed.Core.targets
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.AppContext.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Collections.Immutable.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Console.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Globalization.Calendars.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.Compression.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.FileSystem.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Net.Http.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Net.Sockets.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Reflection.Metadata.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.ValueTuple.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.XmlDocument.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.XPath.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\vbc.exe
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\vbc.exe.config
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\vbc.rsp
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\VBCSCompiler.exe
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\VBCSCompiler.exe.config
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Antlr3.Runtime.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.SqlServer.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Cors.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.OAuth.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Web.Infrastructure.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Newtonsoft.Json.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Owin.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Swashbuckle.Core.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Net.Http.Formatting.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Cors.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Helpers.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.WebHost.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Mvc.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Optimization.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Razor.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Deployment.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Razor.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebActivatorEx.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebGrease.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.SqlServer.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Cors.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.OAuth.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Newtonsoft.Json.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Net.Http.Formatting.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Helpers.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.WebHost.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Mvc.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Optimization.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Razor.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Deployment.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Razor.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Antlr3.Runtime.pdb
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.csproj.AssemblyReference.cache
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.csproj.CoreCompileInputs.cache
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.csproj.CopyComplete
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.dll
+F:\CODE APP\DoAnChuyenNganh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.pdb
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebApiShoesStoreDACN.dll.config
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebApiShoesStoreDACN.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebApiShoesStoreDACN.pdb
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csc.exe
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csc.exe.config
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csc.rsp
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csi.exe
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csi.exe.config
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csi.rsp
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.AppContext.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Collections.Immutable.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Console.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Globalization.Calendars.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.Compression.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.FileSystem.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Net.Http.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Net.Sockets.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Reflection.Metadata.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.ValueTuple.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.XPath.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\vbc.exe
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\vbc.exe.config
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\vbc.rsp
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\VBCSCompiler.exe
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\VBCSCompiler.exe.config
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Antlr3.Runtime.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.SqlServer.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Cors.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Web.Infrastructure.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Newtonsoft.Json.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Owin.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Swashbuckle.Core.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Net.Http.Formatting.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Cors.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Helpers.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.WebHost.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Mvc.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Optimization.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Razor.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Deployment.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Razor.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebActivatorEx.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebGrease.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.SqlServer.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Cors.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Newtonsoft.Json.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Net.Http.Formatting.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Helpers.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.WebHost.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Mvc.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Optimization.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Razor.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Deployment.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Razor.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Antlr3.Runtime.pdb
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.csproj.CoreCompileInputs.cache
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.csproj.CopyComplete
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_VuHanh\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.pdb
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebApiShoesStoreDACN.dll.config
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebApiShoesStoreDACN.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebApiShoesStoreDACN.pdb
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csc.exe
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csc.exe.config
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csc.rsp
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csi.exe
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csi.exe.config
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csi.rsp
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.AppContext.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Collections.Immutable.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Console.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Globalization.Calendars.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.Compression.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.FileSystem.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Net.Http.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Net.Sockets.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Reflection.Metadata.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.ValueTuple.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.XPath.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\vbc.exe
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\vbc.exe.config
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\vbc.rsp
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\VBCSCompiler.exe
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\VBCSCompiler.exe.config
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Antlr3.Runtime.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.SqlServer.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Cors.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Web.Infrastructure.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Newtonsoft.Json.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Owin.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Swashbuckle.Core.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Net.Http.Formatting.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Cors.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Helpers.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.WebHost.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Mvc.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Optimization.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Razor.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Deployment.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Razor.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebActivatorEx.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebGrease.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.SqlServer.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Cors.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Newtonsoft.Json.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Net.Http.Formatting.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Helpers.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.WebHost.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Mvc.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Optimization.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Razor.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Deployment.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Razor.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Antlr3.Runtime.pdb
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.csproj.CoreCompileInputs.cache
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.csproj.CopyComplete
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.pdb
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.csproj.AssemblyReference.cache
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebApiShoesStoreDACN.dll.config
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebApiShoesStoreDACN.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebApiShoesStoreDACN.pdb
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csc.exe
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csc.exe.config
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csc.rsp
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csi.exe
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csi.exe.config
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csi.rsp
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.AppContext.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Collections.Immutable.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Console.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Globalization.Calendars.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.Compression.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.FileSystem.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Net.Http.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Net.Sockets.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Reflection.Metadata.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.ValueTuple.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.XPath.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\vbc.exe
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\vbc.exe.config
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\vbc.rsp
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\VBCSCompiler.exe
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\VBCSCompiler.exe.config
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Antlr3.Runtime.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.SqlServer.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Cors.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Web.Infrastructure.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Newtonsoft.Json.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Owin.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Swashbuckle.Core.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Net.Http.Formatting.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Cors.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Helpers.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.WebHost.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Mvc.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Optimization.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Razor.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Deployment.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Razor.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebActivatorEx.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebGrease.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.SqlServer.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Cors.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Newtonsoft.Json.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Net.Http.Formatting.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Helpers.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.WebHost.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Mvc.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Optimization.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Razor.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Deployment.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Razor.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Antlr3.Runtime.pdb
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.csproj.CoreCompileInputs.cache
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.csproj.CopyComplete
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.pdb
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\xunit.abstractions.dll
+F:\Code Web\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\xunit.abstractions.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\xunit.abstractions.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\DACN_BackEnd\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\xunit.abstractions.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebApiShoesStoreDACN.dll.config
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebApiShoesStoreDACN.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebApiShoesStoreDACN.pdb
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csc.exe
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csc.exe.config
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csc.rsp
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csi.exe
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csi.exe.config
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\csi.rsp
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.AppContext.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Collections.Immutable.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Console.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Globalization.Calendars.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.Compression.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.FileSystem.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Net.Http.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Net.Sockets.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Reflection.Metadata.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.ValueTuple.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.XPath.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\vbc.exe
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\vbc.exe.config
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\vbc.rsp
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\VBCSCompiler.exe
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\roslyn\VBCSCompiler.exe.config
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Antlr3.Runtime.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.SqlServer.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Cors.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Web.Infrastructure.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Newtonsoft.Json.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Owin.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Swashbuckle.Core.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Net.Http.Formatting.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Cors.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Helpers.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.WebHost.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Mvc.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Optimization.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Razor.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Deployment.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Razor.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebActivatorEx.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\WebGrease.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\xunit.abstractions.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\EntityFramework.SqlServer.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Cors.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Newtonsoft.Json.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Net.Http.Formatting.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Helpers.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Http.WebHost.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Mvc.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Optimization.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.Razor.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Deployment.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\System.Web.WebPages.Razor.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Antlr3.Runtime.pdb
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\xunit.abstractions.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.csproj.AssemblyReference.cache
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.csproj.CoreCompileInputs.cache
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.csproj.CopyComplete
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.dll
+D:\Nam_4\Do_An_Chuyen_Nganh\BackEnd_DACN\WebApiShoesStoreDACN\WebApiShoesStoreDACN\obj\Debug\WebApiShoesStoreDACN.pdb
